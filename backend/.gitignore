@@ -1,0 +1,6 @@
+JWT_SECRET=my_super_secret_key
+MONGO_URI=mongodb+srv://immidisettichatushva:chatu123@new.lc0iqiy.mongodb.net/?retryWrites=true&w=majority&appName=new
+PORT=3000
+ STRIPE_SECRET_KEY=sk_test_51SDnum2YR4LeK8fL2AI0IO0C0QxuIpBvPl6aA464lNOxfZElrfqQLUd4Yuu5N495Aeioyj5VSG2WlKY9JtWEXgvs00cd9WjzS2
+ 
+ #sk_test_51SDQun7nrFhn1jXgzBEsNz4wXMwwbWAOvNy6t92V9xB0ejUV4HL6zhnm6rxblS5EvLtUDWUHZIjReRbFvEXWpICA00UQhrAjfe
